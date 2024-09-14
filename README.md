@@ -14,7 +14,7 @@ Then after evaluating the diagram, created a schema was created with revised rel
 Finally, creation of the database in MySQL, and insertion of data for creating relevent queries.
 found in the queries folder
 
-##Query summaries 
+## Query summaries 
 
 1.  We check for medications given and instructions given to any one patient. 
 2.  We look for the names of all the patients in the room 302, good for checking whats full or not
